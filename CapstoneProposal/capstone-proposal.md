@@ -24,11 +24,7 @@ If you finish developing the minimum viable product (MVP) with time to spare, wh
 * Not sure how this would love, but maybe the ability for users to leave comments/reviews about their order!
 * And lastly user Auth.
 
-
-
-
 What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
-
-
+* Sopify API
 
 Is there anything else you'd like your instructor to know?
