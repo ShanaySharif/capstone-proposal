@@ -7,3 +7,4 @@
         - Watched videos of how to incorperaye Shopify Api into capstone
         - Concidering Paypal Api as well
 * 10:00 Research on UI
+* 10:25 Research on images. 
