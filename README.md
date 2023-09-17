@@ -16,4 +16,6 @@
 * 11:am:  menu page, the account page,authentication, home page
 * 11:30 Working on Homepage
 * 2:00 : Watched 40 min YT video on how to incorperate order button for app
-2:40: Research on DB
+* 2:40: Research on DB
+* 3:15: Research on Registration 
+* 3:30: Attempting to work on Reg and Auth
